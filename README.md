@@ -16,5 +16,5 @@ It was originally created by [seanwlk](https://github.com/seanwlk/), however, it
 I will not explain how to install python and how to configure the enviroment. There isn't much to say about the script, just run, login and leave it running.
 
 # Credits
-Crate automation - [@seanwlk](https://github.com/seanwlk)
+Crate automation - [@seanwlk](https://github.com/seanwlk)<br/>
 Steam support - [@sumfun4WF](https://github.com/sumfun4WF)
