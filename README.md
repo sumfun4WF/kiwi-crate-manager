@@ -1,4 +1,4 @@
-# K.I.W.I. Automatic Crate Manager
+# Automatic Crate Manager
 Python script that automatically opens new crates for you and avoids you missclicking on wrong buttons that make you spend BattlePoints for no reason (which is the main reason this script was designed for).
 
 # Requisites
