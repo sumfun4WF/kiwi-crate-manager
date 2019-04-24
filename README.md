@@ -12,3 +12,6 @@ Python script that automatically opens new crates for you and avoids you misscli
 
 # How
 I will not explain how to install python and how to configure the enviroment. There isn't much to say about the script, just run, login and leave it running.
+
+# Credits
+All credits go to [@seanwlk](https://github.com/seanwlk)
