@@ -168,7 +168,7 @@ while 1:
 					data_start_opening = {
 						'chest_id':chest['id']
 						}
-					req = s.post("https://wf.my.com/minigames/craft/api/start",data=data_start_opening)
+					req = s.post("https://wf.my.com/minigames/craft/api/start",data=data_start_opening).json()
 					if req['state'] == "Success":
 						print ("New "+chest['type']+" crate available!")
 				elif chest['ended_at'] < 0:
