@@ -117,7 +117,7 @@ def login():
 		mycom_login()
 
 def get_mg_token():
- get_token = s.get('https://wf.my.com/minigames/user/info').json()
+	get_token = s.get('https://wf.my.com/minigames/user/info').json()
 	s.cookies['mg_token'] = get_token['data']['token']
 
 #Class for color and text customization
