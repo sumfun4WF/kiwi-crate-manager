@@ -1,6 +1,8 @@
 # Automatic Crate Manager
 Python script that automatically opens new crates for you and avoids you missclicking on wrong buttons that make you spend BattlePoints for no reason (which is the main reason this script was designed for).
 
+It was originally created by [seanwlk](https://github.com/seanwlk/), however, it looks like he dopped the public support after K.I.W.I., so I took his script here and updated the API URL.
+
 # Requisites
 - Python
 - Python `requests` module
