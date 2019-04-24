@@ -9,6 +9,10 @@ It was originally created by [seanwlk](https://github.com/seanwlk/), however, it
 - Python `json` module
 - Python `signal` module
 - Python `getpass` module
+- Python `steam` module
+- Python `collections` module
+- Python `IO` module
+- Python `lxml` module
 - 3 minutes to config
 - Brain
 
